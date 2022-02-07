@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-    cout<<"first file to learn git"<<endl;
+    cout<<"Made changes in c++ file on dev branch"<<endl;
 }
