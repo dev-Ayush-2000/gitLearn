@@ -1,1 +1,1 @@
-changed addedFile
+changed addedFile for second time
